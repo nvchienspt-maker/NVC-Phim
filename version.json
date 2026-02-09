@@ -1,10 +1,10 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "changelog": "- Thêm tính năng xem lịch sử.\n- Sửa lỗi giao diện trên TV.\n- Tăng tốc độ tải phim.",
   "download_urls": {
-    "arm64-v8a": "https://link-v8a.apk",
-    "armeabi-v7a": "https://link-v7a.apk",
-    "x86_64": "https://link-x64.apk",
+    "arm64-v8a": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v1.0.3/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v1.0.3/app-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v1.0.3/app-x86_64-release.apk",
     "universal": "https://link-cho-moi-may.apk"
   }
 }
