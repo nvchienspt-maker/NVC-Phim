@@ -1,7 +1,10 @@
 {
   "version": "1.0.1",
-  "build_number": 2,
-  "force_update": false,
   "changelog": "- Thêm tính năng xem lịch sử.\n- Sửa lỗi giao diện trên TV.\n- Tăng tốc độ tải phim.",
-  "download_url": "https://link-tai-app-cua-ban.com/app-release.apk"
+  "download_urls": {
+    "arm64-v8a": "https://link-v8a.apk",
+    "armeabi-v7a": "https://link-v7a.apk",
+    "x86_64": "https://link-x64.apk",
+    "universal": "https://link-cho-moi-may.apk"
+  }
 }
