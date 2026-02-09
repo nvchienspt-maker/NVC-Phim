@@ -1,6 +1,7 @@
 {
   "version": "1.0.1",
-  "download_url": "https://link-tai-file-apk-cua-ban.com/app-release.apk",
-  "changelog": "- Sửa lỗi xem phim bị lệch.\n- Thêm chức năng tua nhanh.\n- Cải thiện tốc độ load.",
-  "force_update": false
+  "build_number": 2,
+  "force_update": false,
+  "changelog": "- Thêm tính năng xem lịch sử.\n- Sửa lỗi giao diện trên TV.\n- Tăng tốc độ tải phim.",
+  "download_url": "https://link-tai-app-cua-ban.com/app-release.apk"
 }
