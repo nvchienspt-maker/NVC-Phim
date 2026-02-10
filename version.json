@@ -2,9 +2,9 @@
   "version": "1.0.8",
   "changelog": "- Nâmg cao trải nghiệm người dùng.\n- Nâng cấp giao diện, player.\n- Vào Donate/Ủng hộ để phát triển App.",
   "download_urls": {
-    "arm64-v8a": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v1.0.9/app-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v1.0.9/app-armeabi-v7a-release.apk",
-    "x86_64": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v1.0.9/app-x86_64-release.apk",
+    "arm64-v8a": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v1.0.8/app-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v1.0.8/app-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v1.0.8/app-x86_64-release.apk",
     "universal": "https://link-cho-moi-may.apk"
   }
 }
