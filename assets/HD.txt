@@ -1,0 +1,7 @@
+NVC Phim:
+
+1. NVCPhim_v1.1.7-armeabi-v7a-release.apk: Dùng cho Android TV hoặc các thiết bị Android có kiến trúc 32-bit dùng Remote.
+
+2. NVCPhim_v1.1.7-arm64-v8a-release.apk: Dùng cho Điện thoại Android  và các thiết bị Android có kiến trúc 64-bit và 32-bit.
+
+3. NVCPhim_v1.1.7-x86_64-release.apk: Dùng cho các thiết bị PC, Laptop chạy Android hoặc Máy ảo.
