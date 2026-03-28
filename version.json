@@ -1,10 +1,10 @@
 {
-  "version": "1.1.7",
-  "changelog": "=> Nâng cấp tính năng cho player. \n- Vào Donate/Ủng hộ để phát triển App.",
+  "version": "1.1.8",
+  "changelog": "=> Nâng cấp tính năng cho player.\n=> Optimization UI \n- Vào Donate/Ủng hộ để phát triển App.",
   "download_urls": {
-    "arm64-v8a": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v1.1.7/NvcPhim_v1.1.7-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v1.1.7/NvcPhim_v1.1.7-armeabi-v7a-release.apk",
-    "x86_64": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v1.1.7/NvcPhim_v1.1.7-x86_64-release.apk",
+    "arm64-v8a": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v1.1.8/NvcPhim_v1.1.8-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v1.1.8/NvcPhim_v1.1.8-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v1.1.8/NvcPhim_v1.1.8-x86_64-release.apk",
     "universal": "https://link-cho-moi-may.apk"
   }
 }
