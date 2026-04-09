@@ -1,5 +1,5 @@
 {
-  "version": "2.0.3",
+  "version": "2.0.4",
   "changelog": "=>➕ Nâng cấp tính năng Giao diện, tính năng.\n=> Truy cập 🌐 https://chienzz.web.app để tải app.\n- Vào Donate/Ủng hộ để phát triển App.",
   "download_urls": {
     "arm64-v8a": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v2.0.4/NvcPhim_v2.0.4-arm64-v8a-release.apk",
