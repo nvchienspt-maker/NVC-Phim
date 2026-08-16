@@ -1,0 +1,15 @@
+Chào mừng bạn đến với Ứng dụng NVC PHIM. 
+
+1. Nội dung: Ứng dụng NVC Phim hoạt động như một trình tổng hợp nội dung từ API công khai trên Internet. Ứng dụng không lưu trữ bất kỳ tệp video nào trên máy chủ của mình.
+
+2. Bản quyền: Trách nhiệm về bản quyền nội dung thuộc về các bên liên quan (Các trang web, máy chủ cung cấp API). Nếu bạn tin rằng nội dung nào đó vi phạm bản quyền của bạn, vui lòng liên hệ với nhà cung cấp nguồn gốc của nội dung đó. Ứng dụng không chịu trách nhiệm về nội dung do bên thứ ba cung cấp.
+
+3. Sử dụng: Ứng dụng được cung cấp "nguyên trạng". Bạn tự chịu trách nhiệm hoàn toàn về việc sử dụng ứng dụng này. Chúng tôi không chịu trách nhiệm về bất kỳ thiệt hại nào đối với thiết bị hoặc dữ liệu của bạn.
+
+4. Quyền riêng tư: Chúng tôi không thu thập dữ liệu của bạn, nhưng ứng dụng có thể sử dụng một số quyền hạn nhất định trên thiết bị của bạn để hoạt động hiệu quả. Vui lòng xem phần cài đặt quyền hạn của ứng dụng để biết thêm chi tiết.
+
+=> Xác nhận đồng ý: Bằng cách nhấn nút "Đồng ý & Bắt đầu" bên dưới, bạn xác nhận đã đọc, hiểu và đồng ý với các điều khoản này.
+
+=> NVC Spaces cung cấp 2 bản: 
+    - NVC Phim: 5687393
+    - NVC Movie: 3422701
