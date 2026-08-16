@@ -1,0 +1,7 @@
+{
+  "apis": [
+    "https://worker-a.workers.dev",
+    "https://worker-b.workers.dev",
+    "https://worker-c.workers.dev"
+  ]
+}
