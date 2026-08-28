@@ -11,6 +11,7 @@ Chào mừng bạn đến với Ứng dụng NVC PHIM.
 
 => Xác nhận đồng ý: Bằng cách nhấn nút "Đồng ý & Bắt đầu" bên dưới, bạn xác nhận đã đọc, hiểu và đồng ý với các điều khoản này.
 
-=> NVC Spaces cung cấp 2 bản: 
-    - NVC Phim: 5687393
-    - NVC Movie: 3422701
+ => NVC SPACES CUNG CẤP CÁC APPs:
+      - NVC Phim: 5687393
+      - NVC Movie: 3422701
+      - NVC Tivi: 3669972
