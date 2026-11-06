@@ -1,10 +1,10 @@
 {
-  "version": "2.4.6",
-  "changelog": "➕ NÂNG CẤP, SỬA LỖI, TỐI ƯU.\n➕ Sửa lỗi, tối ưu;\n=> Truy cập 🌐 https://chienzz.web.app để tải app.\n- Vào Donate/Ủng hộ để phát triển App.",
+  "version": "2.4.7",
+  "changelog": "➕ SỬA LỖI, TỐI ƯU.\n➕ Sửa lỗi, tối ưu;\n=> Truy cập 🌐 https://chienzz.web.app để tải app.\n- Vào Donate/Ủng hộ để phát triển App.",
   "download_urls": {
-    "arm64-v8a": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v2.4.6/NvcPhim_v2.4.6-arm64-v8a-release.apk",
-    "armeabi-v7a": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v2.4.6/NvcPhim_v2.4.6-armeabi-v7a-release.apk",
-    "x86_64": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v2.4.6/NvcPhim_v2.4.6-x86_64-release.apk",
-    "universal": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v2.4.6/NVCPhim_v2.4.6-release.apk"
+    "arm64-v8a": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v2.4.7/NvcPhim_v2.4.7-arm64-v8a-release.apk",
+    "armeabi-v7a": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v2.4.7/NvcPhim_v2.4.7-armeabi-v7a-release.apk",
+    "x86_64": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v2.4.7/NvcPhim_v2.4.7-x86_64-release.apk",
+    "universal": "https://github.com/nvchienspt-maker/NVC-Phim/releases/download/v2.4.7/NVCPhim_v2.4.7-release.apk"
   }
 }
