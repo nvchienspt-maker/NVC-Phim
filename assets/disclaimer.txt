@@ -1,5 +1,6 @@
 TUYÊN BỐ TỪ CHỐI TRÁCH NHIỆM VÀ ĐIỀU KHOẢN SỬ DỤNG:
-Chào mừng bạn đến với Ứng dụng NVC PHIM. 
+- Chào mừng bạn đến với Ứng dụng NVC PHIM. 
+- Cài NVC Store: 1533060  - kho app cho android TV!
 
 1. Nội dung: Ứng dụng NVC Phim hoạt động như một trình tổng hợp nội dung từ API công khai trên Internet. Ứng dụng không lưu trữ bất kỳ tệp video nào trên máy chủ của mình.
 
@@ -15,4 +16,4 @@ Chào mừng bạn đến với Ứng dụng NVC PHIM.
       - NVC Phim: 5687393
       - NVC Movie: 3422701
       - NVC Tivi: 2310039
-      - NVC Store: 8517671
+      - NVC Store: 1533060
